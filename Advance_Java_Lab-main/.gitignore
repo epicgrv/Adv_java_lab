@@ -10,6 +10,7 @@
 
 # Build directories
 **/target/
+**/out/
 .mvn/
 
 # Embedded servers & tools
